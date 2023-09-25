@@ -2,7 +2,7 @@ Known as featherine.py, currently the developper of the first tool accessible on
 (Windows 7 and newer) instead of linux. The tool is obviously free, and easy to get. Avaible soon on my page.
 
 
-- - - - SOCIALS - - - - :
+- SOCIALS :
 
 Discord : @featherine.py
 My Server : https://discord.gg/AdQBAYvmgj
